@@ -27,6 +27,6 @@ org.eclipse.ltk.core.refactoring.prefs
 .appiumconfig*
 build/
 .idea
-./target/
 /target/chaintest/resources/
 /src/apps/android/androidAPP.apk
+/target/
